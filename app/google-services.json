@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938084876317",
+    "project_id": "wallpy-app-9bcd6",
+    "storage_bucket": "wallpy-app-9bcd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938084876317:android:ad104ed9ad34b1fcb606f4",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938084876317-sihefidb0fmab9de8h0hg22fav4rle72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7R0G5LVK11tgqMgRdEoPgGcpTqI63YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938084876317-sihefidb0fmab9de8h0hg22fav4rle72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

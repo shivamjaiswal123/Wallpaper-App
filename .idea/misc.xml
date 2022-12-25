@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/activity_category_wallpaper_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/activity_final_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/activity_final_wallpaper.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/fragment_download.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/item_bom.xml" value="0.253125" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/item_cat.xml" value="0.253125" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/item_cat_wallpaper.xml" value="0.29683698296836986" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/item_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/layout/item_colortone.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/WallpaperApp/app/src/main/res/menu/bottom_nav.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
